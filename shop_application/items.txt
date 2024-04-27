@@ -1,0 +1,10 @@
+Clothes_Items
+Stationary_Items
+Grocery_Items
+Fruits
+Drinks
+Electronics_&_Accessories
+Laundry_Items
+Snacks
+Gadgets
+Home_Appliances

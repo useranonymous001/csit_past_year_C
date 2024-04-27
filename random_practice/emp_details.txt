@@ -1,0 +1,6 @@
+Name		Salary		Rank
+Rohan		800		1
+
+Bandana		700		2
+
+Ningma		600		3

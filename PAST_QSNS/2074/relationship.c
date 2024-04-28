@@ -1,5 +1,7 @@
 /*
 Relationship between pointer and one-dimensional array:
+
+
     1) array name as a pointer:
         when you declare an array, the array name itself behave like a pointer pointing the first element of an array.
         // Eg:
@@ -23,6 +25,7 @@ int main()
     int *ptr = arr;
 
     for (int i = 0; i < 5; i++)
+
     {
         printf("%d\n", *(ptr + i)); // similar ==> arr[i];
     }
@@ -55,7 +58,7 @@ int main()
 
 /*
 
-3) Dynamic Memory Allocation
+4) Dynamic Memory Allocation
         Memory to arrays can be allocated dynamically using pointers.
         this helps to create a memory thoroughout the program rather than just during function call
 */

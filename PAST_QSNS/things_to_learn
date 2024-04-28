@@ -1,7 +1,17 @@
+1. passing an array to the function using pointer
+2. passing an structure to the function
+3. algorithms to solve problems like sorting and some logic building too
+4. read binary files, and so on....
+
+THOERY PART
+
+    1) structure : its benefits, advantages, use cases, examples
+
+    2) pointer : advantages, why and where it is used, relationship with one D array , dynamic memory allocation
 
 
-1) passing an array to the function using pointer
-2) passing an structure to the function
-3) algorithms to solve problems like sorting and some logic building too
-4) read binary files, and so on....
+    4) Function: features, recursive function and how it works, benefits of using functions, user defined and built-in functions, value passed as an arguments and reference passed as an arguments...
 
+    5) file-handling: definition, why do we use data files, different mode of file handling
+
+    6) MISCELLANOUS: type casting, variables __local __global __static , and others....
